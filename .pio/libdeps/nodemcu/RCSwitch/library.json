@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "Chris Dick",
+        "url": "https://os.mbed.com/users/TheChrisyd/"
+    },
+    "build": {
+        "builder": "MbedLibBuilder"
+    },
+    "description": "Library to switch 433MHz remote controlled sockets.",
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/RCswitch_example/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [],
+    "name": "RCSwitch",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/TheChrisyd/code/RCSwitch/"
+    },
+    "version": "0.0.0+sha.6f4be1a7962c"
+}

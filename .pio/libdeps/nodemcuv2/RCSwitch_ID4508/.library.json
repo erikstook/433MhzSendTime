@@ -1,0 +1,40 @@
+{
+    "name": "RCSwitch", 
+    "repository": {
+        "url": "https://os.mbed.com/users/TheChrisyd/code/RCSwitch/", 
+        "type": "hg"
+    }, 
+    "platforms": [
+        "atmelsam", 
+        "freescalekinetis", 
+        "maxim32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "nxplpc", 
+        "riscv_gap", 
+        "siliconlabsefm32", 
+        "ststm32", 
+        "teensy", 
+        "wiznet7500"
+    ], 
+    "frameworks": [
+        "mbed"
+    ], 
+    "version": "6f4be1a796", 
+    "examples": [
+        "https://os.mbed.com/users/TheChrisyd/code/RCswitch_example/"
+    ], 
+    "authors": [
+        {
+            "url": "https://os.mbed.com/users/TheChrisyd/", 
+            "maintainer": false, 
+            "email": null, 
+            "name": "Chris Dick"
+        }
+    ], 
+    "keywords": [
+        "rcswitch"
+    ], 
+    "id": 4508, 
+    "description": "Library to switch 433MHz remote controlled sockets."
+}

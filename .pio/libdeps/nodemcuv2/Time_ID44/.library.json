@@ -1,0 +1,88 @@
+{
+    "name": "Time", 
+<<<<<<< HEAD
+    "repository": {
+        "url": "https://github.com/PaulStoffregen/Time", 
+        "type": "git"
+    }, 
+    "platforms": [], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "1.6", 
+    "examples": [
+        "examples/*/*.ino"
+    ], 
+    "authors": [
+        {
+            "url": null, 
+            "maintainer": false, 
+            "email": null, 
+            "name": "Michael Margolis"
+        }, 
+        {
+            "maintainer": true, 
+            "name": "Paul Stoffregen", 
+            "url": "http://www.pjrc.com", 
+            "email": "paul@pjrc.com"
+        }
+    ], 
+    "keywords": [
+        "week", 
+        "rtc", 
+        "hour", 
+        "year", 
+        "month", 
+        "second", 
+        "time", 
+        "date", 
+        "day", 
+        "minute"
+    ], 
+    "homepage": "http://playground.arduino.cc/Code/Time", 
+    "id": 44, 
+    "description": "Time keeping library"
+=======
+    "description": "Time keeping library", 
+    "keywords": [
+        "time", 
+        "date", 
+        "hour", 
+        "minute", 
+        "second", 
+        "day", 
+        "week", 
+        "month", 
+        "year", 
+        "rtc"
+    ], 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": false, 
+            "name": "Michael Margolis"
+        }, 
+        {
+            "email": "paul@pjrc.com", 
+            "url": "http://www.pjrc.com", 
+            "maintainer": true, 
+            "name": "Paul Stoffregen"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/PaulStoffregen/Time"
+    }, 
+    "version": "1.5", 
+    "homepage": "http://playground.arduino.cc/Code/Time", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "examples": [
+        "examples/*/*.ino"
+    ], 
+    "platforms": [], 
+    "id": 44
+>>>>>>> newnexa
+}
